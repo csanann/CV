@@ -1,4 +1,4 @@
-## chayada sansiriwong
+## Chayada Sansiriwong
 
 As a registered healthcare professional with a background in molecular science, I am passionate about life science, data, and coding. 
 With experience in various healthcare settings, I strive to improve people’s quality of life through innovative technology solutions. 
@@ -16,17 +16,6 @@ I am excited to fulfilling career in software development, leveraging my skillse
 | **Coming more**              | A webapp to do x.          | React, Jest, etc. |
 | **Student Directory App**    | A simple command line app. | Ruby              |
 
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
