@@ -1,6 +1,6 @@
 ## Chayada Sansiriwong
 
-Coming from a healthcare background with a specialization in molecular science, I have developed a deep passion for using Artificial General Intelligence (AGI) and big data to enhance human health. My experiences in various healthcare settings have showcased the transformative power of technology, particularly in its potential to bring about positive change in the healthcare industry and beyond.
+Coming from a healthcare background with a specialization in molecular science, I have developed a deep passion for using Artificial General Intelligence (AGI) and big data to enhance human health. My experiences in various healthcare settings have showcased the transformable power of technology, particularly in its potential to bring about positive change in the healthcare industry and beyond.
 
 This understanding has sparked my interest in utilizing cloud services like AWS to analyze molecular markers or genetics data. The goal is to leverage these technologies to predict treatments and nutritional needs, thereby directly contributing to improving and preserving human health.
 
@@ -85,7 +85,7 @@ My passion lies in simplifying complex problems and staying up-to-date with the 
 - MVC, MVP
 - Agile/XP
 
-#### HyperionDev (11-2022- 02-2023)
+#### HyperionDev
 ##### Data Science BootCamp
 - Python programming, data analysis, machine learning, and deep learning
 - Developed several projects demonstrating proficiency in data analysis and visualization
@@ -96,8 +96,8 @@ My passion lies in simplifying complex problems and staying up-to-date with the 
 - Utilized Python programming and SQL to extract, transform, and analyze large datasets for clients in various industries
 - Created interactive data visualizations with Tableau to provide insights and recommendations to clients and their stakeholders
 
-#### AET L3 (City & Guilds, 2022)
-#### CAVA L3 (City & Guilds, 2023)
+#### AET L3 (City & Guilds)
+#### CAVA L3 (City & Guilds)
 
 #### London Metropolitan University
 ##### MSc Medical Genetics 
@@ -118,7 +118,7 @@ My passion lies in simplifying complex problems and staying up-to-date with the 
 - Collected and managed patient data for various projects while maintaining confidentiality requirements
 - Ensured the database was updated and ready for use, supporting smooth clinical operations.
 
-## Languagues: 
+## Languages:  
 - English
 - Thai
 - Spanish (learning)
@@ -129,4 +129,4 @@ My passion lies in simplifying complex problems and staying up-to-date with the 
 
 
 ## Hobbies:
-- Mindfulness practise, Photography, Travelling, Enjoying food and dancing with family
+- Mindfulness practice, Photography, Traveling, Enjoying food and dancing with family
