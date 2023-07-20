@@ -1,58 +1,27 @@
 ## Chayada Sansiriwong
 
-Coming from a healthcare background with a specialization in molecular science, I have developed a deep passion for using Artificial General Intelligence (AGI) and big data to enhance human health. My experiences in various healthcare settings have showcased the transformable power of technology, particularly in its potential to bring about positive change in the healthcare industry and beyond.
+With a background in healthcare and molecular science, I've developed a passion for using technology, particularly Artificial General Intelligence (AGI) and big data, to enhance human health. This interest led me to complete a Software Developer course at Makers and a Data Science bootcamp, equipping me with the skills to transition into the tech industry.
 
-This understanding has sparked my interest in utilizing cloud services like AWS to analyze molecular markers or genetics data. The goal is to leverage these technologies to predict treatments and nutritional needs, thereby directly contributing to improving and preserving human health.
-
-Driven by these experiences and insights, I am eager to transition into the tech industry and embark on a new journey. To ensure that I stay relevant and continuously grow, I recently completed a Software Developer course at Makers after completing a Data Science bootcamp. Currently, I am actively working on enhancing my programming skills.
-
-My passion lies in simplifying complex problems and staying up-to-date with the latest trends and advancements in technology. My unique background and diverse experiences enable me to provide valuable insights to organizations. I am excited to pursue a fulfilling career in software development, leveraging my skill-set to make a meaningful impact in the field.
+ I'm particularly drawn to projects at the intersection of healthcare and technology, where I can leverage my unique background and problem-solving skills. As I embark on this new journey, I'm excited about the potential to make a meaningful impact in the field, contribute positively to any team, and maintain a healthy work-life balance. I'm eager to bring my passion, adaptability, and commitment to continuous learning to my next role in software development.
 
 ## Projects
 
-| Name                         | Description                | Tech/tools        |
-| ---------------------------- | -----------------          | ----------------- |
-| **coming soon**              | A Project is in progress   |       TBD         |
-|                              |                            |                   |
-| **ep3-raining-mern**         | A recommendation app for   | React+Vite        |
-|                              |weather and activities based| JavaScript, API   |
-|                              |on selected city and        | Jest, cypress     |    
-|                              |date range.                 | Express, Node.js  |
-|                              |                            | CSS, HTML         |
-|                              |                            |                   |
-| **GildedRose_Refactoring**   | A refactoring task         | Python, Pytest    |
-|                              |                            |                   |
-| **bank_tech_test**           | A tech test simulating     | JavaScrip, Jest   |
-|                              | bank transactions such as  | Node.js           |
-|                              | deposit, withdrawal, and   |                   |
-|                              | printing bank statement    |                   |
-|                              |                            |                   |
-| **new-summary-challenge**    | A simple app fetching news | JavaScript, Jest  |
-|                              |headlines from Guardian API | Express, Node.js  |
-|                              |                            | API, CSS, HTML    |
-|                              |                            |                   |
-| **weather**                  | A simple app fetching data | Ruby, Rspec       |
-|                              | from OpenWeather real time | Node.js, Express  |
-|                              |                            |                   |
-| **bowling-challenge**        | A scoring card system for  | JavaScript, Jest  |
-|                              | a bowling game             |                   |
-|                              |                            |                   |
-|                              |                            |                   |
-| **makersbnb-ruby-seed**      | A cloned AirBNB app where  | Ruby,Rspec,Sinatra|
-|                              | users can list, view       | PostgreSQL, ERB   |
-|                              | and book spaces.           | CSS               |
-|                              |                            |                   |
-| **Shop-manager**             | An app to manage inventory | Ruby, Rspec       |
-|                              | and sales in a shop        | PostgreSQL        |
-|                              |                            |                   |
-| **Solo_Project**             | A Pizza ordering system    | Ruby, Rspec       |
-|                              | where users can customize  | TWILIO            |
-|                              | their pizza and place order|                   |
-| **Student Directory App**    | A simple command line app. | Ruby, Rspec, Node |
-|                              |                            | Node.js           |
 
-## Skills
+[ep3-raining-mern (Group Project)](https://github.com/csanann/ep3-raining-mern)
 
+Tech/tools: React+Vite, JavaScript, API, Jest, Cypress, Express, Node.js, CSS, HTML
+Description: A recommendation app that suggests weather-appropriate activities based on the selected city and date range.
+
+[GildedRose_Refactoring (Solo Project)](https://github.com/csanann/GildedRose_Refactoring)
+
+Tech/tools: Python, Pytest
+Description: A refactoring task that involved improving the design of an existing codebase.
+
+[makersbnb-ruby-seed (Group Project)](https://github.com/csanann/makersbnb-ruby-seed)
+
+Tech/tools: Ruby, Rspec, Sinatra, PostgreSQL, ERB, CSS
+Description: A cloned AirBNB app where users can list, view, and book spaces.
+  
 #### Technical Skills:
 - Programming Languages: JavaScript, Python, Ruby, HTML, CSS
 - Data Analysis and Visualization: Numpy, Pandas, Matplotlib, Seaborn, Tableau
@@ -61,40 +30,33 @@ My passion lies in simplifying complex problems and staying up-to-date with the 
 - Version Control: Git, GitHub
 - Development Environments: AWS_cloud9, Linux2
 - Testing frameworks: Jest, Rspec, Pytest, Cypress
-- Software Development Practices: TDD, Pair Programming, OOP
+- Software Development Practices: TDD, Pair Programming, OOP, MVC, MVP, Agile/XP
 
 #### Soft Skills:
-- Excellent teamwork and collaboration
-- Soft-motivated and proactive attitude
-- Strong time management and organizational skills
-- Effective problem-solving abilities
-- Positive and can-do attitudes
+
+- Teamwork and Collaboration: Experience working in diverse teams and fostering a collaborative environment.
+- Proactivity: Self-motivated and able to take initiative on projects.
+- Time Management: Strong organizational skills and ability to manage time effectively.
+- Problem-Solving: Proficient in identifying issues and implementing effective solutions.
 
 ## Education and Certifications:
 
-#### Makers Academy 
-##### Software Developer Course
-- Proficient in Ruby, JavaScript, HTML, CSS
-- Strong understanding of TDD, BDD,Jest, RSpec,Cypress and OOP principles
-- Developed basic games and programs leveraging JavaScript, UI & UX for interactive user experiences
-- Designed and built MERN web applications demonstrating efficient data handling and processing
-- Project Management Tools: Trello, Slack, Retro, Excalidraw, Zoom, Google Meet
--------------------
-###### Software Development Practices:
-- TDD, Pair Programming, OPP
-- MVC, MVP
-- Agile/XP
+#### Makers Academy (April23 cohort)
+##### Software Developer-full stack
 
-#### HyperionDev
-##### Data Science BootCamp
-- Python programming, data analysis, machine learning, and deep learning
-- Developed several projects demonstrating proficiency in data analysis and visualization
-- Analyzing and visualizing customer churn data using Python’s Pandas library and Seaborn
-- Building a machine learning model with scikit-learn to product housing prices based on various features
-- Acquired skills in data cleaning, feature engineering, model evaluation, and hyperparameter turning
-- Analyzed Penguins dataset to assess food chain impact and egg-laying patterns using Python’s Matplotlib and other libraries
-- Utilized Python programming and SQL to extract, transform, and analyze large datasets for clients in various industries
-- Created interactive data visualizations with Tableau to provide insights and recommendations to clients and their stakeholders
+Tasks: Completed an intensive Software Developer course, developed basic games and programs, and designed and built MERN web applications. Participated in pair programming exercises and Agile methodology workshops to simulate real-world tech environments. 
+
+Skills: Ruby, JavaScript, HTML, CSS, TDD, BDD, OOP principles, efficient data handling and processing. Gained experience in pair programming, Agile methodologies, and stress management techniques. Developed skills in team leadership and goal setting.
+
+Impact: Acquired a strong foundation in software development, ready to apply skills in real-world settings. Prepared to handle workload and stress in a tech environment. Developed the ability to drive a team towards a common goal and contribute effectively to tech projects.
+
+#### HyperionDev co-Nottingham University (November22 cohort)
+##### Data Science 
+Tasks: Completed a Data Science BootCamp, developed several projects demonstrating proficiency in data analysis and visualisation.
+
+Skills: Python programming, data analysis, machine learning, deep learning, data cleaning, feature engineering, model evaluation, hyper-parameter tuning.
+
+Impact: Gained a comprehensive understanding of data science, ready to leverage skills in data-driven roles.
 
 #### AET L3 (City & Guilds)
 #### CAVA L3 (City & Guilds)
@@ -103,19 +65,20 @@ My passion lies in simplifying complex problems and staying up-to-date with the 
 ##### MSc Medical Genetics 
 
 ## Other Experiences:
-#### Dental Professional (NHS and Private Dental Practices)
-- Streamlined inventory management, improving working time efficiency by 25%
-- Collaborated with a team to develop queries for identifying patients missing recalls, increasing the comeback rate by 30% through targeted email sequences
-- Utilized Excel and CSV, text files to analyze data, predicting customer re-booking likelihood and saving manual work hours each month
--Canvas, Google(doc, drive, presentation, sheet)
 
-#### Medical Genetic Specialist, R&D Officer, and Researcher (Asia D-life Co., Ltd.)
-- Provided genetics training to staff, reducing customer waiting time by 40%
-- Attended Human Genomics and Molecular meetings in Thailand, presenting updates to the team and communicating with clients
--PowerPoint
+#### Dental Professional, NHS and Private Dental Practices
+- Streamlined inventory management, improving working time efficiency by 25%.
+- Developed queries to identify patients missing recalls, increasing the comeback rate by 30% through targeted email sequences.
+- Used Excel and CSV files to analyze data, predicting customer re-booking likelihood and saving manual work hours each month.
+- Tools: Canvas, Google Suite (Docs, Drive, Presentations, Sheets)
 
-#### Assistant Researcher (Ramathibodi Hospital, BKK, TH)
-- Collected and managed patient data for various projects while maintaining confidentiality requirements
+#### Medical Genetic Specialist & R&D Officer, Asia D-life Co., Ltd.
+- Provided genetics training to staff, reducing customer waiting time by 40%.
+- Attended Human Genomics and Molecular meetings in Thailand, presenting updates to the team and communicating with clients.
+- Tools: PowerPoint
+
+#### Assistant Researcher, Ramathibodi Hospital
+- Collected and managed patient data for various projects while maintaining confidentiality requirements.
 - Ensured the database was updated and ready for use, supporting smooth clinical operations.
 
 ## Languages:  
@@ -126,7 +89,6 @@ My passion lies in simplifying complex problems and staying up-to-date with the 
 ## Contact:
 - GitHub: www.github.com/csanann 
 - LinkedIn: https://www.linkedin.com/in/chayada-s-1a026220 
-
 
 ## Hobbies:
 - Mindfulness practice, Photography, Traveling, Enjoying food and dancing with family
