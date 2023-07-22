@@ -1,11 +1,10 @@
 ## Chayada Sansiriwong
 
-With a background in healthcare and molecular science, I've developed a passion for using technology, particularly Artificial General Intelligence (AGI) and big data, to enhance human health. This interest led me to complete a Software Developer course at Makers and a Data Science bootcamp, equipping me with the skills to transition into the tech industry.
+I have a strong background in healthcare and molecular science, which has sparked my interest in using technology, specifically Artificial General Intelligence (AGI), big data and finance, to enhance human health. To pursue this passion, I completed a Software Developer course at Makers and a Data Science, acquiring the necessary skills to transition into the tech world.
 
- I'm particularly drawn to projects at the intersection of healthcare and technology, where I can leverage my unique background and problem-solving skills. As I embark on this new journey, I'm excited about the potential to make a meaningful impact in the field, contribute positively to any team, and maintain a healthy work-life balance. I'm eager to bring my passion, adaptability, and commitment to continuous learning to my next role in software development.
+In light of my role as a software developer, I have come to acknowledge the necessity for additional hands-on experience to enhance my proficiency. I am eager to delve into diverse industries, seeking opportunities that will enable me to sharpen my skills while simultaneously making meaningful contributions to the development of impactful applications that mutually benefit the organisation and foster my own professional growth.
 
 ## Projects
-
 
 [ep3-raining-mern (Group Project)](https://github.com/csanann/ep3-raining-mern)
 
