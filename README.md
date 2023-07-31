@@ -11,11 +11,10 @@ In light of my role as a software developer, I have come to acknowledge the nece
 Tech/tools: React+Vite, JavaScript, API, Jest, Cypress, Express, Node.js, CSS, HTML
 Description: A recommendation app that suggests weather-appropriate activities based on the selected city and date range.
 
-[GildedRose_Refactoring (Solo Project)](https://github.com/csanann/GildedRose_Refactoring)
+[0XY_healthcare_data_analysis (Solo Project)](https://github.com/csanann/0XY_healthcare_data_analysis)
 
-Tech/tools: Python, Pytest
-Description: A refactoring task that involved improving the design of an existing codebase.
-
+Tech/tools: Python, Flask, Docker, React+Vite, JavaScript, HTML, CSS, MongoDB, Node.j, Pytest, CI/CD github Action
+Description: A healthcare analysis tool that provide insight on patient demographics and related outcomes.
 [makersbnb-ruby-seed (Group Project)](https://github.com/csanann/makersbnb-ruby-seed)
 
 Tech/tools: Ruby, Rspec, Sinatra, PostgreSQL, ERB, CSS
