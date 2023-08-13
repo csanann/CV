@@ -6,7 +6,7 @@ I am interested in developing AI-powered tools that can help people automate tas
 
 ## Projects
 
-[Whatever The Weather (Group Project)](https://github.com/csanann/ep3-raining-mern)
+[Whatever The Weather (Group Project)](https://github.com/lplclaremont/ep3-raining-mern)
 
 Tech/tools: React+Vite, JavaScript, API, Jest, Cypress, Express, Node.js, CSS, HTML
 Description: A recommendation app that suggests weather-appropriate activities based on the selected city and date range.
@@ -86,4 +86,4 @@ Description: A cloned AirBNB app where users can list, view, and book spaces.
 - LinkedIn: https://www.linkedin.com/in/chayada-s-1a026220 
 
 ## Hobbies:
-- Mindfulness practice, Photography, Traveling, Enjoying food and dancing with family
+- Mindfulness practice, Photography, Traveling, Networking, Enjoying food and dancing with family
