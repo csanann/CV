@@ -1,8 +1,15 @@
 ## Chayada Sansiriwong
 
-I am a junior software developer with a background in healthcare and molecular science. I am passionate about using technology to improve human quality of life. I believe that AGI and big data have the potential to transform our lives, making them more efficient, effective and convenient. I am excited to gain more hands-on experience in diverse industries to develop impactful applications that benefit both the organisation and my professional growth.
+Aspiring full-stack software engineer passionate about continuously improving coding skills through self-directed learning. Seeking first developer role at the company offering growth opportunities.
 
-I am interested in developing AI-powered tools that can help people automate tasks and make better decisions. I believe that big data analytics platforms can be used to provide personalised recommendations for products, services and information. Ultimately, I want to use my skills, knowledge and experience to make a positive impact on human quality of life.
+#### Technical Skills:
+- Programming Languages: JavaScript(ES6+), Python, Ruby, HTML/CSS
+- Data Analysis and Visualization: Numpy, Pandas, Matplotlib, Seaborn, Tableau
+- Machine Learning: Python-based machine learning techniques
+- Database: MongoDB, MySQL, PostgreSQL
+- Tools: VScode, Git, AWS(EC2, S3, Docker
+- Testing frameworks: Jest, Rspec, Pytest, Cypress
+- Methodologies: TDD, Pair Programming, Agile/Scrumban
 
 ## Projects
 
@@ -20,45 +27,17 @@ Description: A healthcare analysis tool that provide insight on patient demograp
 
 Tech/tools: Ruby, Rspec, Sinatra, PostgreSQL, HTML, CSS
 Description: A cloned AirBNB app where users can list, view, and book spaces.
-  
-#### Technical Skills:
-- Programming Languages: JavaScript, Python, Ruby, HTML, CSS
-- Data Analysis and Visualization: Numpy, Pandas, Matplotlib, Seaborn, Tableau
-- Machine Learning: Experience with Python-based machine learning techniques
-- Database Management: MongoDB, MySQL, SQL, SPSS
-- Version Control: Git, GitHub
-- Development Environments: AWS_cloud9, Linux2
-- Testing frameworks: Jest, Rspec, Pytest, Cypress
-- Software Development Practices: TDD, Pair Programming, OOP, MVC, MVP, Agile/XP
 
-#### Soft Skills:
+#### Experiences:
 
-- Teamwork and Collaboration: Experience working in diverse teams and fostering a collaborative environment.
-- Proactivity: Self-motivated and able to take initiative on projects.
-- Time Management: Strong organizational skills and ability to manage time effectively.
-- Problem-Solving: Proficient in identifying issues and implementing effective solutions.
+#### Full Stack Software Developer: Makers Academy (April23 cohort)
+- Completed intensive 4-month full stack training program
+- Built web apps collaboratively using Trello, TDD and Agile methodologies
+- Learned concepts like OOP, MVC patterns and advanced JavaScript
 
-## Education and Certifications:
-
-#### Makers Academy (April23 cohort)
-##### Software Developer-full stack
-
-- I successfully completed an intensive course and gained experience in developing basic games, programs, and full-stack web applications.
-- Engaging in pair programming tasks and Agile methodology workshops allowed me to simulate real-world tech environments. 
-- I am proficient in problem-solving, data handling, and processing, while also developing leadership skills, goal setting, and effective remote team management.
-- I have built a strong foundation in the field, equipping me to apply my skills in real-world settings.
-- I am prepared to manage workload and stress in a tech environment and have developed the ability to drive a team towards a common goal and contribute effectively to tech projects. 
-
-#### HyperionDev co-Nottingham University (November22 cohort)
-##### Data Science 
-- Successfully completed Data Science training, demonstrating expertise in data analysis and visualisation through a diverse range of projects.
-- I developed the project on analyzing penguins, cars, and crime datasets to gain insight into trends and predictions.  Proficient in Python-based machine learning, deep learning, data cleaning and processing, feature engineering, model evaluation, and hyperparameter tuning.
-- I acquired a comprehensive understanding of data science, developed skills in communicating complex data insights to non-tech audiences, and am ready to leverage these skills in data-driven roles.
-#### AET L3 (City & Guilds)
-#### CAVA L3 (City & Guilds)
-
-#### London Metropolitan University
-##### MSc Medical Genetics 
+#### Data Science: HyperionDev co-Nottingham University (November22 cohort)
+- Completed remote Data Science training program focused on Python and ML
+- Analysed datasets using Pandas, Matplotlib, Scikit-Learn and Tableau
 
 ## Other Experiences:
 
@@ -77,13 +56,17 @@ Description: A cloned AirBNB app where users can list, view, and book spaces.
 - Collected and managed patient data for various projects while maintaining confidentiality requirements.
 - Ensured the database was updated and ready for use, supporting smooth clinical operations.
 
+## Education and Certifications:
+
+#### London Metropolitan University: MSc Medical Genetics
+#### AWS Certificated Cloud Practitioner (Ongoing)
+
 ## Languages:  
 - English
 - Thai
-- Spanish (learning)
 
 ## Contact:
-- LinkedIn: https://www.linkedin.com/in/chayada-s-1a026220 
+- [LinkedIn:](https://www.linkedin.com/in/chayada-s-1a026220) 
 
-## Hobbies:
-- Mindfulness practice, Photography, Traveling, Networking, Enjoying food and dancing with family
+## Intetests:
+- Staying up-to-date on new and cloud technology trends through online courses and communities, Practicing mindfulness techniques such as meditation
