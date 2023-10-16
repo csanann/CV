@@ -15,25 +15,29 @@ I am a driven software engineer with a passion for leveraging technology to enha
 
 [Whatever The Weather (Group Project)](https://github.com/lplclaremont/ep3-raining-mern)
 
-Tech/tools: React+Vite, JavaScript, API, Jest, Cypress, Express, Node.js, CSS, HTML
-Description: A recommendation app that suggests weather-appropriate activities based on the selected city and date range.
+- Tech/tools: React+Vite, JavaScript, API, Jest, Cypress, Express, Node.js, CSS, HTML
+- Description: A recommendation app that suggests weather-appropriate activities based on the selected city and date range.
 
 [0XY_healthcare_data_analysis (Solo Project)](https://github.com/csanann/0XY_healthcare_data_analysis)
 
-Tech/tools: Python, Flask, Docker, React+Vite, JavaScript, HTML, CSS, MongoDB, Node.j, Pytest, Jest, Pytest-cov, CI/CD github Action
-Description: A healthcare analysis tool that provide insight on patient demographics and related outcomes.
+- Tech/tools: Python, Flask, Docker, React+Vite, JavaScript, HTML, CSS, MongoDB, Node.j, Pytest, Jest, Pytest-cov, CI/CD github Action
+- Description: A healthcare analysis tool that provide insight on patient demographics and related outcomes.
 
 [Makersbnb (Group Project)](https://github.com/csanann/makersbnb-ruby-seed)
 
-Tech/tools: Ruby, Rspec, Sinatra, PostgreSQL, HTML, CSS
-Description: A cloned AirBNB app where users can list, view, and book spaces.
+- Tech/tools: Ruby, Rspec, Sinatra, PostgreSQL, HTML, CSS
+- Description: A cloned AirBNB app where users can list, view, and book spaces.
 
 #### Experiences:
 
 #### Full Stack Software Developer: Makers Academy (April23 cohort)
-- Completed intensive 4-month full stack training program
-- Built web apps collaboratively using Trello, TDD and Agile methodologies
-- Learned concepts like OOP, MVC patterns and advanced JavaScript
+- Completed an intensive 16-week full stack software development training program focused on learning core programming principles
+- Built web applications collaboratively using Ruby, JavaScript, React, Node.js, Express, PostgreSQL, MongoDB and more.
+- Practiced test-driven development(TDD) with RSpec, Jest, and Cypress, ensuring the production is reliable and incremental code.
+- Worked collaboratively using pair programming, Agile methodologies like daily standups and sprints.
+- Developed a real-wold working emotional intelligence and communication skills through workshops on empathy, feedback, teamwork and projects.
+- Quickly learned  new languages and frameworks through the fast-paced, immersive curriculum.
+- Gained experience with version control, OOP principles, and debugging through rigorous project works.
 
 #### Data Science: HyperionDev co-Nottingham University (November22 cohort)
 - Completed remote Data Science training program focused on Python and ML
