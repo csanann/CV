@@ -31,13 +31,13 @@ I am a driven software engineer with a passion for leveraging technology to enha
 #### Experiences:
 
 #### Full Stack Software Developer: Makers Academy (April23 cohort)
-- Completed an intensive 16-week full stack software development training program focused on learning core programming principles
+- Completed an intensive 16-week full-stack software development training program focused on learning core programming principles
 - Built web applications collaboratively using Ruby, JavaScript, React, Node.js, Express, PostgreSQL, MongoDB and more.
-- Practiced test-driven development(TDD) with RSpec, Jest, and Cypress, ensuring the production is reliable and incremental code.
-- Worked collaboratively using pair programming, Agile methodologies like daily standups and sprints.
-- Developed a real-wold working emotional intelligence and communication skills through workshops on empathy, feedback, teamwork and projects.
+- Practised test-driven development(TDD) with RSpec, Jest, and Cypress, ensuring the production is reliable and incremental code.
+- Worked collaboratively using pair programming, and Agile methodologies like daily standups and sprints.
+- Developed real-world working emotional intelligence and communication skills through workshops on empathy, feedback, teamwork and projects.
 - Quickly learned  new languages and frameworks through the fast-paced, immersive curriculum.
-- Gained experience with version control, OOP principles, and debugging through rigorous project works.
+- Gained experience with version control, OOP principles, and debugging through rigorous project work.
 
 #### Data Science: HyperionDev co-Nottingham University (November22 cohort)
 - Completed remote Data Science training program focused on Python and ML
