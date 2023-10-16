@@ -1,6 +1,6 @@
 ## Chayada Sansiriwong
 
-Aspiring full-stack software engineer passionate about continuously improving coding skills through self-directed learning. Seeking first developer role at the company offering growth opportunities.
+I am a driven software engineer with a passion for leveraging technology to enhance lives. Transitioning from healthcare and science roles into tech through immersive tech training programs like Makers and HyperionDev co-Nottingham University, I recognise technology’s potential for meaningful impact. My background in research has honed my analytical thinking and problem-solving skills. Skilled in full-stack and cloud development, I crave opportunities to collaborate on human-centric solutions. I am eager to join a company where technology drives positive change, meeting clients' needs and creating happier users.
 
 #### Technical Skills:
 - Programming Languages: JavaScript(ES6+), Python, Ruby, HTML/CSS
