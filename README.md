@@ -3,13 +3,20 @@
 I am a driven software engineer with a passion for leveraging technology to enhance lives. Transitioning from healthcare and science roles into tech through immersive tech training programs like Makers and HyperionDev co-Nottingham University, I recognise technology’s potential for meaningful impact. My background in research has honed my analytical thinking and problem-solving skills. Skilled in full-stack and cloud development, I crave opportunities to collaborate on human-centric solutions. I am eager to join a company where technology drives positive change, meeting clients' needs and creating happier users.
 
 #### Technical Skills:
-- Programming Languages: JavaScript(ES6+), Python, Ruby, HTML/CSS
-- Data Analysis and Visualization: Numpy, Pandas, Matplotlib, Seaborn, Tableau
-- Machine Learning: Python-based machine learning techniques
-- Database: MongoDB, MySQL, PostgreSQL
-- Tools: VScode, Git, AWS(EC2, S3, Docker
-- Testing frameworks: Jest, Rspec, Pytest, Cypress
-- Methodologies: TDD, Pair Programming, Agile/Scrumban
+- Languages: JavaScript (ES6+), Python, Ruby, HTML/CSS
+- Frameworks: React, Node.js, Express, Vite, Flask, Sinatra
+- Data Analysis: Data cleaning, manipulation, and visualisation
+- Databases: MongoDB, MySQL, PostgreSQL, SQL, SPSS
+- Feature Engineering: Data preprocessing and model evaluation
+- Tools: Git, GitHub, AWS (EC2, S3), Docker, Jupyter Notebook
+- Methodologies: TDD(Pytest, Jest, Cypress, RSpec), Pair programming, Agile/Scrumban
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Tableau
+- Machine Learning: Scikit-Learn, Python  
+- Full-stack Development: HTML/CSS, RESTful APIs, CRUD operation
+- Version Control: Git, GitHub
+- Project Management: Scrum, Kanban, Trello, Slack, Zoom, Google suite
+- Mentorship and Collaboration: Experienced in mentoring and collaborating with teams.
+
 
 ## Projects
 
@@ -39,9 +46,15 @@ I am a driven software engineer with a passion for leveraging technology to enha
 - Quickly learned  new languages and frameworks through the fast-paced, immersive curriculum.
 - Gained experience with version control, OOP principles, and debugging through rigorous project work.
 
-#### Data Science: HyperionDev co-Nottingham University (November22 cohort)
-- Completed remote Data Science training program focused on Python and ML
-- Analysed datasets using Pandas, Matplotlib, Scikit-Learn and Tableau
+#### Data Science, HyperionDev co-Nottingham (November 2022)
+- Completed remote Data Science training program focused on Python and Machine Learning
+- Performed data cleaning, manipulation, and visualisation, analysed datasets and created visualisations to gain insights.
+- Built machine learning models utilising Scikit-Learn; applied supervised and unsupervised learning algorithms
+- Leveraged Jupyter Notebook for interactive data analysis and modeling
+- Evaluated models to enhance predictive capabilities using techniques like cross-validation
+- Extracted valuable insights from data through exploratory analysis and data-driven decision-making
+- Gained hands-on experience in end-to-end data science project lifecycle
+
 
 ## Other Experiences:
 
@@ -60,7 +73,7 @@ I am a driven software engineer with a passion for leveraging technology to enha
 - Collected and managed patient data for various projects while maintaining confidentiality requirements.
 - Ensured the database was updated and ready for use, supporting smooth clinical operations.
 
-## Education and Certifications:
+## Education and Ongoing:
 
 #### London Metropolitan University: MSc Medical Genetics
 #### AWS Certificated Cloud Practitioner (Ongoing)
