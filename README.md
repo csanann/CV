@@ -49,7 +49,7 @@ During my training time at Makers Academy, I honed several essential soft skills
 - Completed remote Data Science training program focused on Python and Machine Learning
 - Performed data cleaning, manipulation, and visualisation, analysed datasets and created visualisations to gain insights.
 - Built machine learning models utilising Scikit-Learn; applied supervised and unsupervised learning algorithms
-- Leveraged Jupyter Notebook for interactive data analysis and modeling
+- Leveraged Jupyter Notebook for interactive data analysis and modelling
 - Evaluated models to enhance predictive capabilities using techniques like cross-validation
 - Extracted valuable insights from data through exploratory analysis and data-driven decision-making
 - Gained hands-on experience in end-to-end data science project lifecycle
