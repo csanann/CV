@@ -3,12 +3,12 @@
 I am a driven software engineer with a passion for leveraging technology to enhance lives. Transitioning from healthcare and science roles into tech through immersive tech training programs like Makers and HyperionDev co-Nottingham University, I recognise technology’s potential for meaningful impact. My background in research has honed my analytical thinking and problem-solving skills. Skilled in full-stack and cloud development, I crave opportunities to collaborate on human-centric solutions. I am eager to join a company where technology drives positive change, meeting clients' needs and creating happier users.
 
 During my training time at Makers Academy, I honed several essential soft skills and transferable skills:
-- **Adaptive:** I quickly adapted to a fast-paced and ever-evolving tech evolving tech environment, continously embracing new programming languages and frameworks as part of our immersive curriculum.
+- **Adaptive:** I quickly adapted to a fast-paced and ever-evolving tech evolving tech environment, continuously embracing new programming languages and frameworks as part of our immersive curriculum.
 - **Positive Attitude:** I consistently maintained a positive and can-do attitude, even when facing challenging coding projects and tight deadlines.
 - **Resilience:** Overcoming coding setbacks and debugging challenges was a constant part of our learning process, and I eagerly accepted each hurdle as an opportunity for growth.
 - **Eager Learner:** My strong desire to learn and proactive develop new skills led me to explore various programming languages and frameworks, such as Ruby, JavaScript, React and more.
-- **Effective Comunicator:** My experiences in pair programming, daily standups, retro-session and Agile methodologies enriched my communication skills and allowed me to effectively collaborate with diverse teams.
-- **Leadership:** Through project work and workshops, I had the chance to gain valuable real-world experience in emotional intelligence, empathy, teamwork, and mentoring. Our collective goal was to grow professinally as a team.
+- **Effective Communicator:** My experiences in pair programming, daily standups, retro-session and Agile methodologies enriched my communication skills and allowed me to effectively collaborate with diverse teams.
+- **Leadership:** Through project work and workshops, I had the chance to gain valuable real-world experience in emotional intelligence, empathy, teamwork, and mentoring. Our collective goal was to grow professionally as a team.
 - **Problem-Solving:** My background in healthcare and science roles, combined with rigorous project work, has honed my analytical thinking and enhanced my problem-solving abilities. I learned to approach challenges from different perspectives and find creative solutions.
 
 ## Projects
