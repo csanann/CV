@@ -13,7 +13,8 @@ Soft Skills & Transferable Skills:
 - Simplify problems by breaking them down into  manageable components
 - Weighs issues from multiple angles to devise creative solutions
 - Uses data-driven approach to optimize processes and outcomes
-- **Effective Communication & Collaboration:** - Clear and constructive communicator - enriched through pair programming, standups, retros
+- **Effective Communication & Collaboration:** 
+- Clear and constructive communicator - enriched through pair programming, standups, retros
 - Conflict resolution skills honed through group projects
 - Cross-cultural collaboration from diverse professional roles
 - **Work Ethic & Professionalism:** 
