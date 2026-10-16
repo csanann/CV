@@ -108,6 +108,7 @@ Completed training covering:
 
 **MSc Medical Genetics**  
 London Metropolitan University — 25 September 2009
+
 **BSc Biology**
 
 ## Technical Skills
