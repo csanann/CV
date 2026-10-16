@@ -1,110 +1,157 @@
-## Chayada Sansiriwong
+## Profile: Chayada Sansiriwong
 
-I am a passionated junior software engineer with experience in healthcare and science transitioning into the tech world. Through immersive training programs like Makers and HyperionDev co-Nottingham University, I recognised technology’s positive potential for meaningful impact. My diverse background in research has honed my analytical thinking and problem-solving skills. I am eager to contribute to a forward-thinking company that leverages technology for a positive impact. I am actively seeking a role fostering continuous learning, collaborative problem-solving and creating happier users.
+Healthcare professional with a background in medical genetics, clinical practice, and hands-on software development, transitioning into healthcare technology.
 
-Soft Skills & Transferable Skills:
-- **Adaptability & Growth Mindset:** 
-- Adapted quickly to new roles, places, processes and technologies
-- Approached obstacles with a growth mindset focused on continuous improvement
-- Learning new programming languages and frameworks proactively beyound curriculum.
-- **Positive Attitude:** Maintained a can-do attitude during challengingncoding projects and tight deadlines.
-- **Resilience:** Overcoming coding setbacks, viewing each hiccup as a valuable opportunity to learn and growth.
-- **Problem-Solving & Critical Thinking:**
-- Simplify problems by breaking them down into  manageable components
-- Weighs issues from multiple angles to devise creative solutions
-- Uses data-driven approach to optimize processes and outcomes
-- **Effective Communication & Collaboration:** 
-- Clear and constructive communicator - enriched through pair programming, standups, retros
-- Conflict resolution skills honed through group projects
-- Cross-cultural collaboration from diverse professional roles
-- **Work Ethic & Professionalism:** 
-- Detail-oriented and organised - ensured integrity of databases
-- Punctual and reliable - consistently met deadlines
-- Took initiative to improve processes and efficiency 
+I enjoy understanding problems, improving workflows, and building practical digital solutions. Through developing BiteToBalance, I have gained experience in full-stack development, cloud services, testing, troubleshooting, and product improvement.
 
-## Projects
+I am currently strengthening my Python, SQL, Django, and application-support skills through practical healthcare technology projects.
 
-[DentPrep (Solo Project-Private-On going)](https://github.com/csanann/DentPrep)
+**Seeking opportunities in:** Application Support, Healthcare Technology, Business Analysis, Systems Analysis, and Junior Software Development.
 
-- **Objective:** Buiding a quiz web application with a simple MVP repository with Ruby on Rails, which will followed by UI enhancement with Ember.js and PostgreSQL
-- **Contribution:** Assisting dental nurse students in passing the exams and contributing to the community
+**Right to work:** Eligible to work in the UK without employer sponsorship.
 
-[Whatever The Weather (Group Project)](https://github.com/lplclaremont/ep3-raining-mern)
+## Featured Projects
 
-- **Skilled Developed:** Modular frontend and backend architecture, API integration, collaborating workflow via pull requests
-- **Tech Stacks:** React Vite, JavaScript, RESTful APIs, Jest, Cypress, Express, Node.js
-- **Achievements:** Created a weather-based on activity recommendation web application providing custom activity suggestions based on location, weather data, and user input
+### 1. [BiteToBalance](https://bitetobalance.com) — Preventive Healthcare Platform
 
-[0XY_healthcare_data_analysis (Solo Project-in process)](https://github.com/csanann/0XY_healthcare_data_analysis)
+**Role:** Independent Developer and Product Owner  
+**Technologies:** Next.js, React, TypeScript, Firebase, Firestore, Tailwind CSS, Git/GitHub
 
-- **Objective:** Building full-stack data visualisation apps, implement CI/CD pipelines fof automated testing, use Docker containerisation, and leveraging AWS cloud services
-- **Tech Stack:** Python, Flask, MongoDB, React, GitHub Actions, Docker, AWS (EC2, S3)
-- **Accommplishment:** Developed a healthcare analysis dashboard offering insights into patient demogrphics and health outcomes through visualisations and analysis
+A preventive-health platform designed to make evidence-based health information and practical tools more accessible.
 
-[Makersbnb (Group Project)](https://github.com/csanann/makersbnb-ruby-seed)
+**My contributions:**
+- Designed and developed full-stack application features.
+- Implemented authentication, database interactions, and cloud-based functionality.
+- Built tools supporting nutrition awareness, meal planning, symptom awareness, and oral-health education.
+- Worked on requirements, user workflows, validation, testing, debugging, and usability improvements.
+- Applied privacy and safety considerations to health-related functionality.
+- Maintained technical documentation and reviewed changes before deployment.
 
-- **Skills Acquired:** Test-driven development with RSpec, core CRUD functionality, and collaborative Agile delivery
-- **Tech Stacks:** Ruby, Sinatra, and PostgreSQL with RDD RSpec testing
-- **Accomplishment:** Developed and deployed an Airbnb clone web application, implementing core booking platform features such as property listings, reviews, search and booking capabilities
+**Skills demonstrated:** Full-stack development, problem-solving, requirements analysis, testing, troubleshooting, and product ownership.
 
-#### Experiences:
+### 2. [Healthcare Tech Lab](https://github.com/csanann/healthcare-tech-lab) — Python, SQL and Application Support Practice
 
-#### Full Stack Software Developer: Makers Academy (April23 cohort)
-- Completed an intensive 16-week full-stack software development training program
-- Built MVPs and collaborated on projects with real-world tech stacks
-- Practised test-driven development(TDD) and ensure reliable and incremental code
-- Developed emotional intelligence and communication skills through workshops on empathy, feedback, teamwork and projects.
-- Gained experience with version control, OOP principles, and debugging
+**Role:** Independent Learning and Development Project  
+**Technologies:** Python, Django, PostgreSQL, SQL, pytest, Git/GitHub
 
-#### Data Science, HyperionDev co-Nottingham (November 2022)
-- Completed remote Data Science training program focused on Python and Machine Learning
-- Performed data cleaning, manipulation, and visualisation, applying supervised and upsupervised learning algorithms
-- Leveraged Jupyter Notebook for interactive data analysis and modelling
-- Extracted valuable insights from data through exploratory analysis and data-driven decision-making
-- Gained hands-on experience in end-to-end data science project lifecycle
+A practical learning environment using synthetic healthcare assessment data to develop skills relevant to application support, systems analysis, and healthcare technology.
 
-## Other Experiences:
+**Current work:**
+- Creating Python validation functions and automated tests.
+- Building a basic Django application with a health-check endpoint.
+- Practising SQL queries to investigate assessment records, incomplete sessions, and status summaries.
+- Using PostgreSQL to explore and query structured data.
+- Investigating errors, checking expected behaviour, and documenting findings.
 
-#### Registered Dental Professional: NHS, Mixed and Private Dental Practices
-- Balanced clinical and adminstrative responsibilities, providing leadership through training, mentoring, and optimising workflow for improved patient care
-- Collaborated with specialists and team members to acheive the smooth operations
-- Independently managed and stremlined inventory processes, improving overall work efficiency
-- Developed power queries for patient recall, optimising appointment scheduling 
-- Utilised advanced queries for stock management, contrinuting to increased operational efficiency
+**Focus:** Understanding how applications, databases, testing, and troubleshooting support reliable healthcare technology.
 
-#### Medical Genetic Specialist & R&D Officer, Asia D-life Co., Ltd.
-- Provide genetics training to staff, reducing customer wait times
-- Prsented research updatees and collaborated cross-culturally
+*Ongoing development and learning project.*
 
-#### Assistant Researcher in Nutritional therapy department, Ramathibodi Hospital
-- Collected, analysed data, managed confidential patient data, maintained databases, collaborated effectively with the research team to meet project objectives
+### 3. [Makersbnb](https://github.com/csanann/makersbnb-ruby-seed) — Group Software Development Project
 
-## Education and Ongoing:
+**Technologies:** Ruby, Sinatra, PostgreSQL, RSpec
 
-#### London Metropolitan University: MSc Medical Genetics
-#### AWS Certificated Cloud Practitioner (In progress)
+- Collaborated on an accommodation-booking application.
+- Practised test-driven development, CRUD operations, and object-oriented programming.
+- Used Git/GitHub for version control and collaborative development.
+- Gained experience in Agile teamwork, debugging, and peer feedback.
 
-#### Technical Skills:
-- **Languages:** Python, Ruby, HTML/CSS, JavaScript
-- **Frameworks:** React, Node.js, Express, Vite, Flask, Sinatra
-- **Data Analysis:** Data cleaning, manipulation, and visualisation
-- **Databases:** MongoDB, MySQL, PostgreSQL, SQL, SPSS
-- **Feature Engineering:** Data preprocessing and model evaluation
-- **Tools:** Git, GitHub, AWS (EC2, S3), Docker, Jupyter Notebook
-- **Methodologies:** Test-Driven Development (TDD):Pytest, Jest, Cypress, RSpec; Pair programming, Agile/Scrumban
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Tableau
-- **Machine Learning:** Scikit-Learn 
-- **Full-stack Development:** HTML/CSS, RESTful APIs, CRUD operations
-- **Version Control:** Git, GitHub
-- **Project Management:** Scrum, Kanban, Trello, Slack, Zoom, GoogleSuite, MicrosoftTeams
-- **Mentorship and Collaboration:** Experienced in mentoring and collaborating with teams.
+## Professional Experience
 
-## Languages:  
-- English
+### Registered Dental Professional — Bupa Dental Care
+**September 2025 – Present | London**
+
+- Support daily clinical operations, patient care, and healthcare workflows.
+- Work with clinical teams to maintain accurate records and effective communication.
+- Identify operational problems and contribute to practical workflow improvements.
+- Apply attention to detail, confidentiality, professional standards, and patient safety.
+
+### Registered Dental Professional — NHS, Mixed and Private Dental Practices
+**Previous roles | London**
+
+- Worked across different clinical settings, adapting to varied systems, teams, and procedures.
+- Supported appointment coordination, patient communication, and clinical administration.
+- Contributed to staff training, inventory processes, and daily operational efficiency.
+
+### Medical Genetics and Research Experience
+
+**R&D Officer — Asia D-life Co., Ltd.**
+- Supported genetics-related information, staff training, and research communication.
+- Worked with scientific information and multidisciplinary colleagues.
+
+**Research Assistant — Ramathibodi Hospital, Thailand**
+- Supported nutritional-therapy research and clinical data collection.
+- Maintained confidential patient information and research records.
+- Worked with healthcare professionals and research teams.
+
+## Software Development and Data Training
+
+### Makers Academy — Full-Stack Software Development
+**April 2023 Cohort**
+
+Completed an intensive 16-week software development programme covering:
+- Object-oriented programming and test-driven development.
+- Full-stack application development and REST APIs.
+- Git/GitHub, Agile teamwork, pair programming, and code reviews.
+- Debugging, testing, and collaborative problem-solving.
+
+### HyperionDev / University of Nottingham — Data Science
+**November 2022**
+
+Completed training covering:
+- Python programming and data analysis.
+- Data cleaning, manipulation, and visualisation.
+- Exploratory data analysis and introductory machine learning.
+- Jupyter Notebook and data-driven problem-solving.
+
+## Education
+
+**MSc Medical Genetics**  
+London Metropolitan University — 25 September 2009
+**BSc Biology**
+
+## Technical Skills
+
+**Current hands-on development**
+- TypeScript, JavaScript, React, Next.js
+- Firebase Authentication, Firestore, Firebase cloud services
+- HTML, CSS, Tailwind CSS
+- Git, GitHub, REST APIs
+- Application testing, debugging, and technical documentation
+
+**Currently practising**
+- Python, Django, pytest
+- SQL and PostgreSQL
+- Data validation and database queries
+- Application health checks and troubleshooting
+
+**Previous training and exposure**
+- Ruby, Sinatra, RSpec
+- Node.js, Express
+- Data analysis with Python and Jupyter Notebook
+- Introductory machine learning
+
+**Working practices**
+- Agile collaboration and version control
+- Requirements clarification and workflow analysis
+- Testing and user acceptance review
+- Problem investigation and documentation
+- Responsible use of AI-assisted development tools
+
+## Transferable Strengths
+
+- **Healthcare knowledge:** Understanding of clinical workflows, patient needs, confidentiality, and safety.
+- **Analytical thinking:** Scientific research background and practical experience investigating problems.
+- **Communication:** Experience working with clinical teams, colleagues, and people from different backgrounds.
+- **Adaptability:** Transitioned between healthcare, research, and software development environments.
+- **Continuous learning:** Building and testing practical applications while developing new technical skills.
+
+## Languages
+
 - Thai
+- English
 
-## Contact:
-- [LinkedIn:](https://www.linkedin.com/in/chayada-s-1a026220) 
+## Contact
 
-## Intetests:
-- Staying up-to-date on new technologies and trends through online courses and communities, Practicing mindfulness techniques such as meditation
+[Connect with me on LinkedIn](https://www.linkedin.com/in/chayada-s-1a026220/)  
+[Explore my GitHub projects](https://github.com/csanann)
